@@ -1,0 +1,40 @@
+No.,Quantity,Comment,Designator,Footprint,Value,Manufacturer Part,Manufacturer,Supplier Part,Supplier,Price,
+1,3,22uF,"C2,C10,C12",C0805,22uF,CL21A226MAYNNNE,Samsung Electro-Mechanics,C602037,LCSC,0.34,https://www.lcsc.com/product-detail/C602037.html?s_z=n_C602037
+2,12,100nF,"C3,C4,C7,C11,C13,C14,C15,C18,C20,C21,C22,C23",C0805,100nF,CL21B104KBCNNNC,Samsung Electro-Mechanics,C1711,LCSC,0.31,https://www.lcsc.com/product-detail/C1711.html?s_z=n_C1711
+3,1,100uF,C6,C0805,100uF,GRM21BR60J107ME15L,muRata,C141660,LCSC,1.21,https://www.lcsc.com/product-detail/C141660.html?s_z=n_C141660
+4,1,10nF,C9,C0805,10nF,NL0805B103K500CPBN,HUI JU,C780691,LCSC,0.4,https://www.lcsc.com/product-detail/C780691.html?s_z=n_C780691
+5,2,4.7uF,"C16,C17",C0805,4.7uF,CL21A475KBQNNNE,Samsung Electro-Mechanics,C98192,LCSC,0.21,https://www.lcsc.com/product-detail/C98192.html?s_z=n_C98192
+6,1,10uF,C19,C0805,10uF,CL21A106KOQNNNE,Samsung Electro-Mechanics,C1713,LCSC,0.29,https://www.lcsc.com/product-detail/C1713.html?s_z=n_C1713
+7,1,1uF,C24,C0805,1uF,CL21B105KAFNNNE,Samsung Electro-Mechanics,C116352,LCSC,0.64,https://www.lcsc.com/product-detail/C116352.html?s_z=n_C116352
+8,1,TF PUSH,CARD1,TF-SMD_TF-PUSH,,TF PUSH,SHOU HAN(首韩),C393941,LCSC,0.62,https://www.lcsc.com/product-detail/C393941.html?s_z=n_C393941
+9,1,B2B-PH-K-S(LF)(SN),CN1,CONN-TH_B2B-PH-K-S,,B2B-PH-K-S(LF)(SN),JST,C131337,LCSC,0.67,https://www.lcsc.com/product-detail/C131337.html?s_z=n_C131337
+10,1,SMBJ5.0A,D1,DO-214AA_L4.4-W3.6-LS5.3-BI,,SMBJ5.0A,Littelfuse(美国力特),C83333,LCSC,0.51,https://www.lcsc.com/product-detail/C83333.html?s_z=n_C83333
+11,3,SS14,"D2,D3,D4",SMA_L4.4-W2.6-LS5.0-RD,,SS14,HT(金誉),C48782961,LCSC,0.37,https://www.lcsc.com/product-detail/C48782961.html?s_z=n_C48782961
+12,1,BSMD-075-16V,F1,R0805,,BSMD-075-16V,BHFUSE(佰宏),C976303,LCSC,0.56,https://www.lcsc.com/product-detail/C976303.html?s_z=n_C976303
+13,2,HDR-M_2.54_1x12P,"H1,H2",HDR-TH_12P-P2.54-V-M,,2.54-1*40P,BOOMELE(Boom Precision Elec),C2337,LCSC,0.74,https://www.lcsc.com/product-detail/C2337.html?s_z=n_C2337
+14,2,LED_0805-G,"LED1,LED5",LED0805-RD_GREEN,,YLED0805YG,YLED0805YG,C19171393,LCSC,0.77,https://www.lcsc.com/product-detail/C19171393.html?s_z=n_C19171393
+15,2,LED_0805-R,"LED2,LED3",LED0805-R-RD,,YLED0805R,YONGYUTAI,C19171391,LCSC,0.81,https://www.lcsc.com/product-detail/C19171391.html?s_z=n_C19171391
+16,1,GMI9767P-50DB,MIC1,MIC-TH_BD9.7-P2.54-D0.8-L-FD,,GMI9767P-50DB,INGHAi(赢海),C234022,LCSC,1.06,https://www.lcsc.com/product-detail/C234022.html?s_z=n_C234022
+17,2,BC817,"Q1,Q2",SOT-23-3_L2.9-W1.4-P1.91-LS2.6-BR,,BC817,High Diode(海德),C466643,LCSC,0.69,https://www.lcsc.com/product-detail/C466643.html?s_z=n_C466643
+18,3,AO3400A,"Q3,Q4,Q5",SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR,,AO3400A,FUXINSEMI(富芯森美),C5380685,LCSC,0.26,https://www.lcsc.com/product-detail/C5380685.html?s_z=n_C5380685
+19,2,5.1K,"R1,R2",R0805,5.1K,0805W8F5101T5E,UNI-ROYAL,C27834,LCSC,0.24,https://www.lcsc.com/product-detail/C27834.html?s_z=n_C27834
+20,11,10K,"R3,R4,R11,R12,R14,R15,R17,R18,R19,R21,R23",R0805,10K,0805W8F1002T5E,UNI-ROYAL,C17414,LCSC,0.25,https://www.lcsc.com/product-detail/C17414.html?s_z=n_C17414
+21,1,MF52A103J3950 (A1),R5,RES-TH_L2.5-W2.5-P1.70-D0.3,,MF52A103J3950 (A1),时恒,C123378,LCSC,0.66,https://www.lcsc.com/product-detail/C123378.html?s_z=n_C123378
+22,1,2K,R6,R0805,2K,RC0805FR-072KL,YAGEO,C114572,LCSC,0.27,https://www.lcsc.com/product-detail/C114572.html?s_z=n_C114572
+23,4,1K,"R7,R8,R9,R10",R0805,1K,RC0805FR-071KL,YAGEO,C95781,LCSC,0.25,https://www.lcsc.com/product-detail/C95781.html?s_z=n_C95781
+24,3,100Ω,"R13,R20,R22",R0805,100Ω,0805W8F1000T5E,UNI-ROYAL,C17408,LCSC,0.21,https://www.lcsc.com/product-detail/C17408.html?s_z=n_C17408
+25,1,100K,R16,R0805,100K,0805W8F1003T5E,UNI-ROYAL,C149504,LCSC,0.23,https://www.lcsc.com/product-detail/C149504.html?s_z=n_C149504
+26,3,Slide Switch,"SW1,SW2,SW3",SW-SMD_3P-L9.1-W3.5-P2.50_MST-12D18G2,,Slide Switch,SHOU HAN(首韩),C49023765,LCSC,0.37,https://www.lcsc.com/product-detail/C49023765.html?s_z=n_C49023765
+27,5,Button,"SW4,SW5,SW6,SW7,SW8",KEY-SMD_L4.0-W3.0-LS4.9-1,,BOOT,hanxia(韩下),C49234124,LCSC,0.94,https://www.lcsc.com/product-detail/C49234124.html?s_z=n_C49234124
+29,1,USB-C,U1,USB-C-SMD_TYPE-C-6PIN-2MD-073,,USB-C,SHOU HAN(首韩),C2765186,LCSC,1.27,https://www.lcsc.com/product-detail/C2765186.html?s_z=n_C2765186
+30,1,ESP32,U2,WIFI-SMD_ESP32-WROOM-32E,ESP32,ESP32-WROOM-32E-N4,ESPRESSIF(乐鑫),C701341,LCSC,3.79,https://www.lcsc.com/product-detail/C701341.html?s_z=n_C701341
+31,1,CH340C,U3,SOP-16_L10.0-W3.9-P1.27-LS6.0-BL,,CH340C,WCH(南京沁恒),C84681,LCSC,0.58,https://www.lcsc.com/product-detail/C84681.html?s_z=n_C84681
+32,1,AP2210K-3.3TRG1,U6,SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR,,AP2210K-3.3TRG1,DIODES(美台),C176959,LCSC,0.74,https://www.lcsc.com/product-detail/C176959.html?s_z=n_C176959
+33,1,TP4056-42-ESOP8,U8,ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP,,TP4056-42-ESOP8,TOPPOWER(南京拓微),C16581,LCSC,0.93,https://www.lcsc.com/product-detail/C16581.html?s_z=n_C16581
+34,5,LPB1003B5F,U10,SOT-23-5_L3.0-W1.6-P0.95-LS2.8-BL,,LPB1003B5F,LOWPOWER(微源半导体),C2902427,LCSC,0.35,https://www.lcsc.com/product-detail/C2902427.html?s_z=n_C2902427
+35,1,X042-7240TSWPG01-H16,U11,OLED-SMD_16P-P0.65-X042-7240TSWPG01-H16,,X042-7240TSWPG01-H16,Wisevision(新智景),C18723008,LCSC,1.11,https://www.lcsc.com/product-detail/C18723008.html?s_z=n_C18723008
+36,1,Speaker,U12,C0805,,HDK-302004AA-2W,Dragonstate,C19725766,LCSC,0.41,https://www.lcsc.com/product-detail/C19725766.html?s_z=n_C19725766
+37,1,LM358DR2G,U13,SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL,,LM358DR2G,onsemi(安森美),C7950,LCSC,0.61,https://www.lcsc.com/product-detail/C7950.html?s_z=n_C7950
+38,1,Shipping,,,,,,,,15.07,
+39,1,PCB,,,,,,,,11.74,jlcpcb.com
+40,1,Total + Tax,,,,,,,,54.9406,
